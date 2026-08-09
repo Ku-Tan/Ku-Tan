@@ -1,347 +1,53 @@
 {
   "themes": [
-    {
-      "name": "Titlebar",
-      "author": "BeardDesign",
-      "description": "Add a titlebar to the top of your window :)",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/Titlebar/master/Titlebar.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Sleeping Beauty",
-      "author": "maple",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/mrmaple240/Sleeping-Beauty/master/sleepingbeauty.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord Reborn",
-      "author": "Omniscient",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Discord%20Reborn.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discordify",
-      "author": "Nirewen",
-      "description": "",
-      "url": "https://gist.githubusercontent.com/nirewen/a2078af9a41943ab19cf50e2944d1ca9/raw/Discordify.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Dark Souls",
-      "author": "Satan/Mondanzo",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Mondanzo/GameThemes-BetterDiscord/master/dark_souls.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Ponyo",
-      "author": "uri",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/cmpdc/BDTheme-Ponyo/master/Discord_Ponyo.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Dubai Orange",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/DubaiOrange.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Green Transparent",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Green.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Maware Shade",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/MawaresShade.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Oceanic Blue",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/OceanicBlue.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Vibrant Pink",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Pink.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Simplistic Blue",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Simplified-Blue.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Simplistic CSS",
-      "author": "den",
-      "description": "Simplistic Green",
-      "url": "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Simplified-Green.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "OriginalModern",
-      "author": "mat3",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/mathiaslsn/OriginalModern/master/mat.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "IOS Switches",
-      "author": "BeardDesign",
-      "description": "Use IOS switches instead of checkboxes",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/Ios-switches/themes/IOS_Switches.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Cyan Firewatch",
-      "author": "den",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/denBot/Cyan-Firewatch/master/cyan-firewatch.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 1",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-1.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 2",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-2.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 3",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-3.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 4",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-4.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 5",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-5.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 6",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-6.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 7",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-7.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modal Animations",
-      "author": "BeardDesign",
-      "description": "Animation 8",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-8.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Material Design Switches",
-      "author": "BeardDesign",
-      "description": "Material design switches instead of checkboxes",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/Material-design-switches/themes/Material_Switches.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "MaterialCord",
-      "author": "BlenderMachine",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/gustarrini/MaterialCord/master/materialcord.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Modern N' Cozy",
-      "author": "Narugokyu",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Narugokyu/modern-n-cozy/master/modern-n-cozy.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Small Members Tab",
-      "author": "BeartDesign",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/small-members-tab/themes/small-members-tab.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord ReBorn",
-      "author": "Zerthox",
-      "description": "Amber",
-      "url": "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Amber.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord ReBorn",
-      "author": "Zerthox",
-      "description": "Amethyst",
-      "url": "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Amethyst.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord ReBorn",
-      "author": "Zerthox",
-      "description": "Emerald",
-      "url": "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Emerald.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord ReBorn",
-      "author": "Zerthox",
-      "description": "Remove Shadows",
-      "url": "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Remove_Shadows.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord ReBorn",
-      "author": "Zerthox",
-      "description": "Ruby",
-      "url": "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Ruby.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Discord ReBorn",
-      "author": "Zerthox",
-      "description": "Sapphire",
-      "url": "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Sapphire.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Akame",
-      "author": "llcoll",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/llcoll/Discord-Themes/master/Themes/Akame/Akame.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Overwatch",
-      "author": "Matt",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Matthaz/Overwatch_theme/master/Overwatch.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Shiny Octo Waffle",
-      "author": "Kappa123",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/PepeLUL/Shiny-Octo-Waffle-Theme/master/Shiny.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Beard's Material Theme",
-      "author": "BeardDesign",
-      "description": "http://www.beard-design.com/discord-material-theme.html",
-      "url": "https://raw.githubusercontent.com/BeardDesign1/Material-design-theme/themes/Beard's-Material-theme-for-Discord.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Esdeath",
-      "author": "llcoll",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/llcoll/Discord-Themes/master/Themes/Esdeath/Esdeath.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Space Nova",
-      "author": "Narugokyu",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Narugokyu/nova-theme/master/space_nova.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Re:Zero",
-      "author": "TimcanpyCC",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/CurimuChizu/CC-Themes/master/CC-Themes/ReZero.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Witcher 3",
-      "author": "Mitchell",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/jadeonking/Witcher-3-Theme-for-Discord/master/Witcher3.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Dat Discord",
-      "author": "IceCleaver",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Viniuau/Dat-Discord/master/Dat%20Discord.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Full Light",
-      "author": "maple",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/mrmaple240/Full-Light-Theme/master/FullLightTheme.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Red n Black",
-      "author": "TimcanpyCC",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/CurimuChizu/CC-Themes/master/CC-Themes/Red.n.Black.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Shades of Red",
-      "author": "Prominency",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/trueprominency/Shades-of-Red-Theme/master/shades-of-red.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Thin Dark",
-      "author": "Snazzah",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/SnazzyPine25/Better-Discord-Themes/master/Themes/Thin-Dark/ThinDark.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Clear Discord",
-      "author": "Dddsasul",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Dddsasul/TeamKappa-theme/master/ClearDiscord.theme.css",
-      "preview": ""
-    },
-    {
-      "name": "Casual Dark",
-      "author": "Quietness",
-      "description": "",
-      "url": "https://raw.githubusercontent.com/Quietess/Casual-Dark/master/CasualDark.css",
-      "preview": ""
-    }
+    "https://raw.githubusercontent.com/BeardDesign1/Titlebar/master/Titlebar.theme.css",
+    "https://raw.githubusercontent.com/mrmaple240/Sleeping-Beauty/master/sleepingbeauty.theme.css",
+    "https://raw.githubusercontent.com/0mniscient/Discord-Themes/master/Themes/Discord%20Reborn.theme.css",
+    "https://gist.githubusercontent.com/nirewen/a2078af9a41943ab19cf50e2944d1ca9/raw/Discordify.theme.css",
+    "https://raw.githubusercontent.com/Mondanzo/GameThemes-BetterDiscord/master/dark_souls.theme.css",
+    "https://raw.githubusercontent.com/cmpdc/BDTheme-Ponyo/master/Discord_Ponyo.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/DubaiOrange.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Green.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/MawaresShade.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/OceanicBlue.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Pink.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Simplified-Blue.theme.css",
+    "https://raw.githubusercontent.com/denBot/Simplistic-CSS/master/Simplified-Green.theme.css",
+    "https://raw.githubusercontent.com/mathiaslsn/OriginalModern/master/mat.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/Ios-switches/themes/IOS_Switches.theme.css",
+    "https://raw.githubusercontent.com/denBot/Cyan-Firewatch/master/cyan-firewatch.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-1.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-2.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-3.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-4.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-5.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-6.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-7.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/discord-modal-animations/themes/modal-anim-8.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/Material-design-switches/themes/Material_Switches.theme.css",
+    "https://raw.githubusercontent.com/gustarrini/MaterialCord/master/materialcord.theme.css",
+    "https://raw.githubusercontent.com/Narugokyu/modern-n-cozy/master/modern-n-cozy.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/small-members-tab/themes/small-members-tab.theme.css",
+    "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Amber.theme.css",
+    "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Amethyst.theme.css",
+    "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Emerald.theme.css",
+    "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Remove_Shadows.theme.css",
+    "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Ruby.theme.css",
+    "https://raw.githubusercontent.com/Zerthox/DiscordReBorn/master/DiscordReBorn_Sapphire.theme.css",
+    "https://raw.githubusercontent.com/llcoll/Discord-Themes/master/Themes/Akame/Akame.theme.css",
+    "https://raw.githubusercontent.com/Matthaz/Overwatch_theme/master/Overwatch.theme.css",
+    "https://raw.githubusercontent.com/PepeLUL/Shiny-Octo-Waffle-Theme/master/Shiny.theme.css",
+    "https://raw.githubusercontent.com/BeardDesign1/Material-design-theme/themes/Beard's-Material-theme-for-Discord.theme.css",
+    "https://raw.githubusercontent.com/llcoll/Discord-Themes/master/Themes/Esdeath/Esdeath.theme.css",
+    "https://raw.githubusercontent.com/Narugokyu/nova-theme/master/space_nova.theme.css",
+    "https://raw.githubusercontent.com/CurimuChizu/CC-Themes/master/CC-Themes/ReZero.theme.css",
+    "https://raw.githubusercontent.com/jadeonking/Witcher-3-Theme-for-Discord/master/Witcher3.theme.css",
+    "https://raw.githubusercontent.com/Viniuau/Dat-Discord/master/Dat%20Discord.theme.css",
+    "https://raw.githubusercontent.com/mrmaple240/Full-Light-Theme/master/FullLightTheme.theme.css",
+    "https://raw.githubusercontent.com/CurimuChizu/CC-Themes/master/CC-Themes/Red.n.Black.theme.css",
+    "https://raw.githubusercontent.com/trueprominency/Shades-of-Red-Theme/master/shades-of-red.theme.css",
+    "https://raw.githubusercontent.com/SnazzyPine25/Better-Discord-Themes/master/Themes/Thin-Dark/ThinDark.theme.css",
+    "https://raw.githubusercontent.com/Dddsasul/TeamKappa-theme/master/ClearDiscord.theme.css",
+    "https://raw.githubusercontent.com/Quietess/Casual-Dark/master/CasualDark.css"
   ]
 }
